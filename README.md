@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kikii
+- 👋 Hi, I’m @Harshita476
 - 👀 I’m interested in UI/UX, Web development , Machine Learning,Competitive Programmming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
